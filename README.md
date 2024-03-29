@@ -1,4 +1,4 @@
 # demo1
 my first git repository
 <br>
-Author- Ashwani gupta
+Author- Ashwani gupta Master student
